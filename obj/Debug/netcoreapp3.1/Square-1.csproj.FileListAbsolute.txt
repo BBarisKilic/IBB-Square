@@ -1,0 +1,13 @@
+/home/bbk/netCoreProjects/Square-1/bin/Debug/netcoreapp3.1/Square-1
+/home/bbk/netCoreProjects/Square-1/bin/Debug/netcoreapp3.1/Square-1.deps.json
+/home/bbk/netCoreProjects/Square-1/bin/Debug/netcoreapp3.1/Square-1.runtimeconfig.json
+/home/bbk/netCoreProjects/Square-1/bin/Debug/netcoreapp3.1/Square-1.runtimeconfig.dev.json
+/home/bbk/netCoreProjects/Square-1/bin/Debug/netcoreapp3.1/Square-1.dll
+/home/bbk/netCoreProjects/Square-1/bin/Debug/netcoreapp3.1/Square-1.pdb
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.csprojAssemblyReference.cache
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.AssemblyInfoInputs.cache
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.AssemblyInfo.cs
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.csproj.CoreCompileInputs.cache
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.dll
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.pdb
+/home/bbk/netCoreProjects/Square-1/obj/Debug/netcoreapp3.1/Square-1.genruntimeconfig.cache
